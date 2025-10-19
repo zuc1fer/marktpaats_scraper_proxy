@@ -1,4 +1,4 @@
-# Turbo Marktplaats Scraper — Proxy-Enabled
+# Marktplaats Scraper — Proxy-Enabled
 
 Lightweight, high-performance scraper for `marktplaats.nl` (phones, listing links, full info with WhatsApp links).  
 This version adds **proxy support** over the previous proxyless release.
